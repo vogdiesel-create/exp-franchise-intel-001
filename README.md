@@ -1,17 +1,35 @@
-# FranchiseRadar - Franchise Disclosure Intelligence
+# FranchiseRadar
 
-**Research any franchise in minutes, not months.**
+**Franchise disclosure document intelligence. See what franchisors don't advertise.**
 
-AI-analyzed Franchise Disclosure Documents. Compare unit economics, failure rates, litigation history, and fee structures across 4,000+ franchise brands.
+## The Problem
+
+Franchise Disclosure Documents (FDDs) are 200+ pages of legal text. The critical data -- unit economics, litigation history, franchisee turnover -- is buried. Most prospective franchisees sign without understanding the real numbers.
+
+## The Solution
+
+FranchiseRadar parses FDDs to extract and compare key metrics across franchises. See real unit economics, litigation trends, and franchisee satisfaction signals before investing.
 
 ## Features
-- Every FDD filed with state regulators, parsed and analyzed
-- Unit economics comparison across brands
-- Franchisee turnover and failure rate tracking
-- Litigation history and trends
-- Fee structure breakdowns and hidden cost alerts
+
+- FDD parsing and key metric extraction
+- Cross-franchise comparison on unit economics
+- Litigation history tracking
+- Franchisee turnover and satisfaction signals
+- Red flag detection
 
 ## Pricing
-Starting at $149/mo. Single FDD analysis $49.
 
-**[Join the Waitlist](https://vogdiesel-create.github.io/exp-franchise-intel-001/)**
+**$149/mo** -- free during early access.
+
+## Get Early Access
+
+[Sign up for early access](https://vogdiesel-create.github.io/exp-franchise-intel-001/) and be the first to try it.
+
+## Status
+
+Currently in early access. We're onboarding users and collecting feedback.
+
+---
+
+Built with AI. Tested with real data. Priced for practitioners, not enterprises.
